@@ -11,3 +11,10 @@ h5{
 body {
     background-color: black;
 }
+
+@media screen and (max-width: 600px) {
+    .april {
+        width: 100%;
+        margin: 0px;
+    }
+  }
